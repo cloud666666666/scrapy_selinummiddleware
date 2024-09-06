@@ -1,0 +1,201 @@
+rank,pwd,timecost,counts
+1,password,< 1 Second,4929113
+2,123456,< 1 Second,1523537
+3,123456789,< 1 Second,413056
+4,guest,10 Seconds,376417
+5,qwerty,< 1 Second,309679
+6,12345678,< 1 Second,284946
+7,111111,< 1 Second,229047
+8,12345,< 1 Second,188602
+9,col123456,11 Seconds,140505
+10,123123,< 1 Second,127762
+11,1234567,< 1 Second,110279
+12,1234,< 1 Second,106929
+13,1234567890,< 1 Second,105189
+14,000000,< 1 Second,102636
+15,555555,< 1 Second,98353
+16,666666,< 1 Second,91274
+17,123321,< 1 Second,83241
+18,654321,< 1 Second,81231
+19,7777777,< 1 Second,74233
+20,123,< 1 Second,60795
+21,D1lakiss,3 Hours,50181
+22,777777,< 1 Second,48903
+23,110110jp,3 Seconds,48265
+24,1111,< 1 Second,47935
+25,987654321,< 1 Second,46891
+26,121212,< 1 Second,46298
+27,Gizli,10 Seconds,44874
+28,abc123,< 1 Second,44587
+29,112233,< 1 Second,43615
+30,azerty,< 1 Second,43101
+31,159753,< 1 Second,40141
+32,1q2w3e4r,< 1 Second,40056
+33,54321,< 1 Second,39264
+34,pass@123,2 Seconds,39046
+35,222222,< 1 Second,36029
+36,qwertyuiop,< 1 Second,35099
+37,qwerty123,< 1 Second,34530
+38,qazwsx,< 1 Second,33510
+39,vip,< 1 Second,33442
+40,asdasd,< 1 Second,33177
+41,123qwe,< 1 Second,32085
+42,123654,< 1 Second,31853
+43,iloveyou,< 1 Second,30871
+44,a1b2c3,< 1 Second,30088
+45,999999,< 1 Second,28881
+46,Groupd2013,3 Hours,28397
+47,1q2w3e,< 1 Second,27421
+48,usr,< 1 Second,26594
+49,Liman1000,3 Hours,26576
+50,1111111,< 1 Second,26345
+51,333333,< 1 Second,26244
+52,123123123,< 1 Second,26198
+53,9136668099,4 Days,26154
+54,11111111,< 1 Second,25833
+55,1qaz2wsx,< 1 Second,25319
+56,password1,< 1 Second,25113
+57,mar20lt,17 Minutes,25071
+58,987654321,< 1 Second,24764
+59,gfhjkm,< 1 Second,24715
+60,159357,< 1 Second,24147
+61,abcd1234,< 1 Second,24106
+62,131313,< 1 Second,23461
+63,789456,< 1 Second,22779
+64,luzit2000,17 Minutes,22671
+65,aaaaaa,< 1 Second,22524
+66,zxcvbnm,< 1 Second,22425
+67,asdfghjkl,< 1 Second,22278
+68,1234qwer,< 1 Second,21817
+69,88888888,< 1 Second,21169
+70,dragon,< 1 Second,20774
+71,987654,< 1 Second,20527
+72,888888,< 1 Second,20396
+73,qwe123,< 1 Second,20141
+74,football,< 1 Second,20034
+75,3601,< 1 Second,19833
+76,asdfgh,< 1 Second,19186
+77,master,< 1 Second,19185
+78,samsung,< 1 Second,18771
+79,12345678910,< 1 Second,18581
+80,killer,< 1 Second,18022
+81,1237895,2 Seconds,17683
+82,1234561,1 Second,17649
+83,12344321,< 1 Second,16929
+84,daniel,5 Seconds,16860
+85,000000,< 1 Second,16785
+86,444444,< 1 Second,16768
+87,101010,< 1 Second,16750
+88,fuckyou,< 1 Second,16736
+89,qazwsxedc,< 1 Second,16637
+90,789456123,< 1 Second,16607
+91,super123,< 1 Second,16480
+92,qwer1234,< 1 Second,16219
+93,123456789a,< 1 Second,16048
+94,823477aA,30 Minutes,16018
+95,147258369,< 1 Second,15879
+96,unknown,17 Minutes,15759
+97,98765,< 1 Second,15556
+98,q1w2e3r4,< 1 Second,15489
+99,232323,< 1 Second,15349
+100,102030,< 1 Second,15312
+101,12341234,< 1 Second,15271
+102,147258,< 1 Second,15259
+103,shadow,< 1 Second,15214
+104,123456a,< 1 Second,15159
+105,87654321,< 1 Second,15068
+106,10203,< 1 Second,14802
+107,pokemon,< 1 Second,14576
+108,princess,< 1 Second,14510
+109,azertyuiop,1 Minute,14509
+110,thomas,8 Seconds,14432
+111,baseball,< 1 Second,14303
+112,monkey,< 1 Second,14252
+113,jordan,< 1 Second,14235
+114,michael,8 Seconds,14162
+115,love,< 1 Second,14026
+116,1111111111,< 1 Second,13967
+117,11223344,< 1 Second,13957
+118,123456789,< 1 Second,13944
+119,asdf1234,< 1 Second,13908
+120,147852,< 1 Second,13833
+121,252525,< 1 Second,13800
+122,11111,< 1 Second,13683
+123,loulou,< 1 Second,13351
+124,111222,< 1 Second,13198
+125,superman,< 1 Second,13100
+126,qweasdzxc,< 1 Second,13017
+127,soccer,< 1 Second,12915
+128,qqqqqq,< 1 Second,12879
+129,123abc,< 1 Second,12699
+130,computer,< 1 Second,12628
+131,qweasd,< 1 Second,12599
+132,zxcvbn,< 1 Second,12542
+133,sunshine,< 1 Second,12449
+134,1234554321,< 1 Second,12323
+135,asd123,< 1 Second,12211
+136,marina,< 1 Second,12172
+137,lol123,< 1 Second,12133
+138,a123456,< 1 Second,12101
+139,Password,< 1 Second,12029
+140,123789,< 1 Second,11940
+141,jordan23,< 1 Second,11846
+142,jessica,7 Seconds,11834
+143,212121,< 1 Second,11805
+144,7654321,< 1 Second,11780
+145,googledummy,23 Minutes,11701
+146,qwerty1,< 1 Second,11580
+147,123654789,< 1 Second,11462
+148,naruto,< 1 Second,11460
+149,Indya123,2 Seconds,11347
+150,internet,< 1 Second,11339
+151,doudou,< 1 Second,11320
+152,anmol123,17 Minutes,11224
+153,55555,< 1 Second,11155
+154,andrea,2 Minutes,11048
+155,anthony,17 Minutes,11038
+156,martin,< 1 Second,11032
+157,basketball,10 Seconds,10999
+158,nicole,2 Minutes,10814
+159,xxxxxx,< 1 Second,10775
+160,1qazxsw2,< 1 Second,10720
+161,charlie,< 1 Second,10589
+162,12345qwert,< 1 Second,10534
+163,zzzzzz,< 1 Second,10471
+164,q1w2e3,< 1 Second,10434
+165,147852369,< 1 Second,10319
+166,hello,< 1 Second,10276
+167,welcome,< 1 Second,10249
+168,marseille,1 Day,10189
+169,456123,< 1 Second,10176
+170,secret,< 1 Second,10122
+171,matrix,< 1 Second,10116
+172,zaq12wsx,< 1 Second,9918
+173,password123,< 1 Second,9889
+174,qwertyu,< 1 Second,9828
+175,hunter,< 1 Second,9791
+176,freedom,< 1 Second,9770
+177,999999999,< 1 Second,9755
+178,eminem,< 1 Second,9690
+179,junior,< 1 Second,9674
+180,696969,< 1 Second,9623
+181,andrew,2 Minutes,9570
+182,michelle,3 Hours,9470
+183,wow12345,11 Seconds,9447
+184,juventus,< 1 Second,9419
+185,batman,< 1 Second,9407
+186,justin,2 Minutes,9403
+187,12qwaszx,< 1 Second,9393
+188,Pass@123,4 Seconds,9359
+189,passw0rd,< 1 Second,9349
+190,soleil,< 1 Second,9287
+191,nikita,< 1 Second,9251
+192,Password1,< 1 Second,9220
+193,qweqwe,< 1 Second,9193
+194,nicolas,3 Seconds,9165
+195,robert,< 1 Second,9153
+196,starwars,< 1 Second,9091
+197,liverpool,< 1 Second,9079
+198,5555555,< 1 Second,9063
+199,bonjour,< 1 Second,9011
+200,124578,< 1 Second,8932
